@@ -1,20 +1,20 @@
 {
     "api": [
-        "https://tidal-api.binimum.org",
-        "https://monochrome-api.samidy.com",
-        "https://triton.squid.wtf",
-        "https://wolf.qqdl.site"
+        "https://api.codetabs.com/v1/proxy/?quest=https://tidal-api.binimum.org",
+        "https://api.codetabs.com/v1/proxy/?quest=https://monochrome-api.samidy.com",
+        "https://api.codetabs.com/v1/proxy/?quest=https://triton.squid.wtf",
+        "https://api.codetabs.com/v1/proxy/?quest=https://wolf.qqdl.site"
     ],
     "streaming": [
-        "https://triton.squid.wtf",
-        "https://wolf.qqdl.site",
-        "https://maus.qqdl.site",
-        "https://vogel.qqdl.site",
-        "https://katze.qqdl.site",
-        "https://hund.qqdl.site",
-        "https://tidal.kinoplus.online",
-        "https://tidal-api.binimum.org",
-        "https://hifi-one.spotisaver.net",
-        "https://hifi-two.spotisaver.net"
+        "https://api.codetabs.com/v1/proxy/?quest=https://triton.squid.wtf",
+        "https://api.codetabs.com/v1/proxy/?quest=https://wolf.qqdl.site",
+        "https://api.codetabs.com/v1/proxy/?quest=https://maus.qqdl.site",
+        "https://api.codetabs.com/v1/proxy/?quest=https://vogel.qqdl.site",
+        "https://api.codetabs.com/v1/proxy/?quest=https://katze.qqdl.site",
+        "https://api.codetabs.com/v1/proxy/?quest=https://hund.qqdl.site",
+        "https://api.codetabs.com/v1/proxy/?quest=https://tidal.kinoplus.online",
+        "https://api.codetabs.com/v1/proxy/?quest=https://tidal-api.binimum.org",
+        "https://api.codetabs.com/v1/proxy/?quest=https://hifi-one.spotisaver.net",
+        "https://api.codetabs.com/v1/proxy/?quest=https://hifi-two.spotisaver.net"
     ]
 }
